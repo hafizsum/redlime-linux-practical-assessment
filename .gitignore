@@ -1,0 +1,19 @@
+# Local/editor files
+.DS_Store
+*.swp
+*~
+.vscode/
+
+# Private keys, credentials and local environment
+*.pem
+*.key
+id_ed25519
+id_rsa
+.env
+.env.*
+secrets/
+credentials/
+
+# Local logs and generated exports (review before committing)
+*.log
+# Add the actual sanitized RouterOS export only after reviewing it.

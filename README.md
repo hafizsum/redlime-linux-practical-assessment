@@ -86,6 +86,9 @@ linux/
   	ssh/
   		sshd-hardening.txt
 screenshots/
+	nginx status.png
+	site1.png
+	site2.png
 README.md
 ```
 
